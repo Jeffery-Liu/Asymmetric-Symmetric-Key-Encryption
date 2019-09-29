@@ -5,4 +5,4 @@ Cyber Security Project:
 
 ## Contributors:
 - Jinfeng (Jeffery) Liu <liujinfeng1209@gmail.com>
-- Zhipeng (Lance) Men
+- Zhipeng (Lance) Men <lance_mon@icloud.com>
